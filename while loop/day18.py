@@ -1,4 +1,4 @@
-#i=0
+# i=0
 # while(i<=38):
 #     i=(int)(input("Enter the number "))
 #     print(i)
@@ -6,13 +6,19 @@
 # while(i<3):
 #     print(i)
 #     i=i+1 
-i=(int)(input("Enter the number "))
+# i=(int)(input("Enter the number "))
 
-while(i>=0):
-    print(i)
-    i=i-1
-else:
-    print("I am inside else")
-
+# while(i>=0):
+#     print(i)
+#     i=i-1
+# else:
+#     print("I am inside else")
 
 # EMULATING DO-WHILE LOOP IN PYTHON
+
+i=(int)(input("Enter the number "))
+while True :
+    print(i)
+    i+=1
+    if i>9:
+        break
