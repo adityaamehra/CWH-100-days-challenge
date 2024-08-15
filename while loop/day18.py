@@ -13,3 +13,6 @@ while(i>=0):
     i=i-1
 else:
     print("I am inside else")
+
+
+# EMULATING DO-WHILE LOOP IN PYTHON
