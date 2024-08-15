@@ -1,4 +1,4 @@
-i=0
+#i=0
 # while(i<=38):
 #     i=(int)(input("Enter the number "))
 #     print(i)
