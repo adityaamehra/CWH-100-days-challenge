@@ -7,6 +7,6 @@ print(coun)
 # COUNT METHOD 1
 res=coun.count(3)
 print(res)
-# INDEX METHOD 
-print(coun.index(3,3, len(coun)))
+# INDEX METHOD : It gives the index of the first occurance of the __value
+print(coun.index(3,12, len(coun)))
 # METHOD 2 TO ADD AN ELEMENT TO A TUPLE
