@@ -27,6 +27,9 @@
     &quot;accountId&quot;: &quot;24d17292-d317-4aa7-89eb-289ad3dede89&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/list/day22.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -94,6 +97,8 @@
       <workItem from="1726389141167" duration="3453000" />
       <workItem from="1726393973412" duration="1172000" />
       <workItem from="1726398156067" duration="410000" />
+      <workItem from="1726567773405" duration="236000" />
+      <workItem from="1726568022039" duration="212000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <option name="closed" value="true" />
@@ -223,7 +228,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726395134107</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="final">
+      <option name="closed" value="true" />
+      <created>1726567798321</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1726567798321</updated>
+    </task>
+    <task id="LOCAL-00018" summary="final">
+      <option name="closed" value="true" />
+      <created>1726567844062</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726567844062</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +277,7 @@
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day30.coverage" NAME="day30 Coverage Results" MODIFIED="1726349444147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$main.coverage" NAME="main Coverage Results" MODIFIED="1726348199364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day35.coverage" NAME="day35 Coverage Results" MODIFIED="1726393146060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for loop with else" />
-    <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day22.coverage" NAME="day22 Coverage Results" MODIFIED="1725643776572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+    <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day22.coverage" NAME="day22 Coverage Results" MODIFIED="1726568050253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day25.coverage" NAME="day25 Coverage Results" MODIFIED="1726350026981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuples" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day31.coverage" NAME="day31 Coverage Results" MODIFIED="1726350131897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sets" />
   </component>
