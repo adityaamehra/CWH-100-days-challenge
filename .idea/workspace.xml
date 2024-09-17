@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c674c070-03d6-43b0-b440-cb03f7208c33" name="Changes" comment="final">
-      <change afterPath="$PROJECT_DIR$/finally clause/day37.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exception Handling/day36.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exception Handling/day36.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,33 +38,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.a.executor": "Run",
-    "Python.day22.executor": "Run",
-    "Python.day25.executor": "Run",
-    "Python.day28.executor": "Run",
-    "Python.day29.executor": "Run",
-    "Python.day30.executor": "Run",
-    "Python.day31.executor": "Run",
-    "Python.day32.executor": "Run",
-    "Python.day33.executor": "Run",
-    "Python.day34.executor": "Run",
-    "Python.day35.executor": "Run",
-    "Python.day36.executor": "Run",
-    "Python.day37.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day29.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day33.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day36.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day37.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +92,8 @@
       <workItem from="1726385135724" duration="425000" />
       <workItem from="1726389110543" duration="19000" />
       <workItem from="1726389141167" duration="3453000" />
-      <workItem from="1726393973412" duration="1054000" />
+      <workItem from="1726393973412" duration="1172000" />
+      <workItem from="1726398156067" duration="410000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <option name="closed" value="true" />
@@ -216,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726394043458</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="final">
+      <option name="closed" value="true" />
+      <created>1726395134107</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726395134107</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
