@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c674c070-03d6-43b0-b440-cb03f7208c33" name="Changes" comment="final">
-      <change afterPath="$PROJECT_DIR$/short hand if and else/day41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how import works/day44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how import works/importing_from_other_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception Handling/day36.py" beforeDir="false" afterPath="$PROJECT_DIR$/exception handling/day36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumerate function/day42.py" beforeDir="false" afterPath="$PROJECT_DIR$/enumerate function/day42.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +63,8 @@
     "Python.day38.executor": "Run",
     "Python.day40.executor": "Run",
     "Python.day41.executor": "Run",
+    "Python.day42.executor": "Run",
+    "Python.day44.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -67,7 +73,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "copyright",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -103,7 +109,8 @@
       <workItem from="1726567773405" duration="236000" />
       <workItem from="1726568022039" duration="212000" />
       <workItem from="1726568245161" duration="437000" />
-      <workItem from="1726568700442" duration="3496000" />
+      <workItem from="1726568700442" duration="10525000" />
+      <workItem from="1726586279476" duration="3243000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <option name="closed" value="true" />
@@ -281,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726571842106</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="final">
+      <option name="closed" value="true" />
+      <created>1726572298172</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1726572298172</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,6 +324,7 @@
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day28.coverage" NAME="day28 Coverage Results" MODIFIED="1726347440898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/f-strings" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day41.coverage" NAME="day41 Coverage Results" MODIFIED="1726572081867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/short hand if and else" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day33.coverage" NAME="day33 Coverage Results" MODIFIED="1726389818912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionaries" />
+    <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day42.coverage" NAME="day42 Coverage Results" MODIFIED="1726572546867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/enumerate function" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day29.coverage" NAME="day29 Coverage Results" MODIFIED="1726348304937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Docstrings and PEP-8" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day36.coverage" NAME="day36 Coverage Results" MODIFIED="1726394581975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exception Handling" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day32.coverage" NAME="day32 Coverage Results" MODIFIED="1726379480037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sets" />
@@ -319,6 +335,7 @@
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day40.coverage" NAME="day40 Coverage Results" MODIFIED="1726571701375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excercise 4" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day22.coverage" NAME="day22 Coverage Results" MODIFIED="1726568050253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day25.coverage" NAME="day25 Coverage Results" MODIFIED="1726350026981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuples" />
+    <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day44.coverage" NAME="day44 Coverage Results" MODIFIED="1726594616866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/how import works" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day31.coverage" NAME="day31 Coverage Results" MODIFIED="1726350131897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sets" />
   </component>
 </project>
