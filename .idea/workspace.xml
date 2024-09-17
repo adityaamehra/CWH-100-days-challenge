@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c674c070-03d6-43b0-b440-cb03f7208c33" name="Changes" comment="final">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excercise 4/day40.py" beforeDir="false" afterPath="$PROJECT_DIR$/excercise 4/day40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/short hand if and else/day41.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,7 @@
     "Python.day37.executor": "Run",
     "Python.day38.executor": "Run",
     "Python.day40.executor": "Run",
+    "Python.day41.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -103,7 +103,7 @@
       <workItem from="1726567773405" duration="236000" />
       <workItem from="1726568022039" duration="212000" />
       <workItem from="1726568245161" duration="437000" />
-      <workItem from="1726568700442" duration="3060000" />
+      <workItem from="1726568700442" duration="3496000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <option name="closed" value="true" />
@@ -273,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726571273950</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="final">
+      <option name="closed" value="true" />
+      <created>1726571842106</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726571842106</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,6 +307,7 @@
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day37.coverage" NAME="day37 Coverage Results" MODIFIED="1726394958315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/finally clause" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$a.coverage" NAME="a Coverage Results" MODIFIED="1725942103388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day28.coverage" NAME="day28 Coverage Results" MODIFIED="1726347440898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/f-strings" />
+    <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day41.coverage" NAME="day41 Coverage Results" MODIFIED="1726572081867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/short hand if and else" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day33.coverage" NAME="day33 Coverage Results" MODIFIED="1726389818912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionaries" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day29.coverage" NAME="day29 Coverage Results" MODIFIED="1726348304937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Docstrings and PEP-8" />
     <SUITE FILE_PATH="coverage/CWH_100_days_challenge$day36.coverage" NAME="day36 Coverage Results" MODIFIED="1726394581975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exception Handling" />
